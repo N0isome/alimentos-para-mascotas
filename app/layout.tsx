@@ -2,8 +2,8 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Alimentos para Mascotas | Distribuidora especializada",
-  description: "Nutrición, marcas y distribución para petshops, veterinarias y comercios.",
+  title: "Safari Pez — Buena comida. Mejores colitas.",
+  description: "Concepto de distribuidora de alimentos para perros y gatos. Explora un catálogo interactivo y prepara una solicitud por volumen. Proyecto de Nicolás Cortez.",
   other: {
     "codex-preview": "development",
   },
